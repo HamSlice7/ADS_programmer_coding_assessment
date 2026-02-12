@@ -79,4 +79,8 @@ test_question = [
 for question in test_question:
     response = ClinicalTrialDataAgent(question)
     filtered_df = Convert_to_pandas_query(ae_sdtm_file_path, response)
-    print(filtered_df)
+    unique_ids = filtered_df['USUBJID'].unique()
+    print(f"Test question: {question}")
+    print(f"Number of unique subjects after filtering: {len(unique_ids)}")
+    print(f"Corresponding ID's: {unique_ids}")
+    print("\n\n\n")
