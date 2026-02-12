@@ -1,0 +1,13 @@
+===== SCRIPT START =====
+Time: 1770911990 
+
+[1] "Load required packages"
+[1] "Loading in raw clinical data and DM domain dataset"
+[1] "Generating Oak ID variables"
+[1] "Loading in study control terms"
+[1mindexed[0m [32m0B[0m in [36m 0s[0m, [32m0B/s[0m[1mindexed[0m [32m2.15GB[0m in [36m 0s[0m, [32m2.15GB/s[0m                                                                                                [1] "Mapping the topic variable"
+[1] "Mapping the rest of the variables"
+[1] "Saving final SDTM DS Domain dataset to: ../../output/question_1/ds.xpt"
+
+Time: 1770911992 
+===== SCRIPT COMPLETED SUCCESSFULLY =====

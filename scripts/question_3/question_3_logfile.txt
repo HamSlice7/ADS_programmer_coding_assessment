@@ -1,0 +1,14 @@
+===== SCRIPT START =====
+Time: 1770916679 
+
+[1] "Load required packages"
+[1] "Loadin in ADAE and ADSL data sets"
+[1] "Creating a summary table of treatment-emergent adverse events (TEAEs)"
+[1] "Saving summary table to ../../output/question_3/teae_table.docx"
+[1] "Creating AE severity distribution by treatment plot "
+[1] "Saving plot to ../../output/question_3/AE_plot.png "
+[1] "Creating a plot of the top 10 most frequent AEs"
+[1] "Saving plot to ../../output/question_3/top_10_AE_plot.png "
+
+Time: 1770916696 
+===== SCRIPT COMPLETED SUCCESSFULLY =====

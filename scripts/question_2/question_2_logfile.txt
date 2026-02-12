@@ -1,0 +1,14 @@
+===== SCRIPT START =====
+Time: 1770914514 
+
+[1] "Load required packages"
+[1] "Read in SDTM data"
+[1] "Initializing ADSL with STDM DM"
+[1] "Deriving AGEGR9 and AGEGR9N"
+[1] "Deriving TRTSDTM and TRTSTMF"
+[1] "Deriving ITTFL"
+[1] "Deriving LSTAVLDT"
+[1] "Saving final ADSL dataset to: ../../output/question_2/adsl.xpt"
+
+Time: 1770914516 
+===== SCRIPT COMPLETED SUCCESSFULLY =====
